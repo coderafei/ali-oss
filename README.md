@@ -323,7 +323,7 @@ parameters:
 
 Success will return:
 
-- acl {String} acl settiongs string
+- acl {String} acl settings string
 - res {Object} response info, including
   - status {Number} response status
   - headers {Object} response headers
@@ -1339,7 +1339,7 @@ parameters:
 
 Success will return:
 
-- acl {String} acl settiongs string
+- acl {String} acl settings string
 - res {Object} response info, including
   - status {Number} response status
   - headers {Object} response headers
